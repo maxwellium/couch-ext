@@ -1,0 +1,4 @@
+{
+  "name": "CouchExt",
+  "description": "Sencha's Ext JS served directly from CouchDB"
+}
